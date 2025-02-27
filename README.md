@@ -1,2 +1,2 @@
 # proyecto-1
-para psoibes empleadores
+para posibes empleadores
